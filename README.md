@@ -7,7 +7,9 @@ The logos for these projects are inspired by my beloved pets, who are my daily m
 <table>
   <tr>
     <td align="center" vertical-align="top" width="200px">
-      <img width="200px" src="https://github.com/Liberty-liu/Liberty-liu/assets/21301475/9922bb46-b7a4-48e8-a087-a93ea48b3e32" alt="Everright-formEditor">
+      <a href="https://github.com/Liberty-liu/Everright-formEditor">
+        <img width="200px" src="https://user-images.githubusercontent.com/21301475/243158026-9922bb46-b7a4-48e8-a087-a93ea48b3e32.gif" alt="Everright-formEditor">
+      </a>
       <br>
       <a href="https://github.com/Liberty-liu/Everright-formEditor">
         <b>Everright-formEditor</b>
@@ -15,7 +17,9 @@ The logos for these projects are inspired by my beloved pets, who are my daily m
       <p>A visual drag-and-drop low-code form editor</p>
     </td>
     <td align="center" vertical-align="top" width="200px">
-      <img width="200px" src="https://github.com/Liberty-liu/Liberty-liu/assets/21301475/0d71a431-d2d4-4f67-b8bb-d230f7dc258b"/>
+      <a href="https://github.com/Liberty-liu/Everright-filter">
+        <img width="200px" src="https://user-images.githubusercontent.com/21301475/243158383-0d71a431-d2d4-4f67-b8bb-d230f7dc258b.gif"/>
+      </a>
       <br>
       <a href="https://github.com/Liberty-liu/Everright-filter">
         <b>Everright-filter</b>
