@@ -2,7 +2,7 @@
 
 The logos for these projects are inspired by my beloved pets, who are my daily motivation and endless joy.
 
-**Pet-themed Projects** 👇
+**Pet Portraits Projects** 👇
 
 <table>
   <tr>
