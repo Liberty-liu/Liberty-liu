@@ -1,4 +1,4 @@
-### Hi there, I'm 刘海峰 <sup>Liberty</sup> 👋
+### Hi there 👋
 
 The logos for these projects are inspired by my beloved pets, who are my daily motivation and endless joy.
 
