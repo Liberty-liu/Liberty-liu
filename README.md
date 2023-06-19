@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Clapping%20Hands.png" alt="Clapping Hands" width="25" height="25" />
 
 The logos for these projects are inspired by my beloved pets, who are my daily motivation and endless joy.
 
-**Pet Portraits Projects** 👇
+**Pet Portraits Projects** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Backhand Index Pointing Down" width="25" height="25" />
 
 <table>
   <tr>
